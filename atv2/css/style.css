@@ -1,0 +1,13 @@
+.h1 { 
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Verdana;
+    color: red
+}
+ .body{
+    font-family: 'Courier New';
+    color:green;
+ }
+ #paragrafo{
+     text-transform: capitalize;
+ }

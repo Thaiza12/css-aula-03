@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <style>
+
+            .body{
+                font-family: 'Courier New';
+            }
+
+            .h1 { font-family: Verdana;
+        }
+            p.italic {
+                font-style: italic;
+                font-size: 30px;
+            }
+
+        </style>
+
+    </head>
+    <body class="body">
+
+        <h1 class="h1">Este é um heading</h1>
+        <p class="italic" span="span">Este é um paragrafo</p>
+        <p class="italic">Este é outro paragrafo</p>
+    </body>
+</html>
